@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @SathyaKarthik1212
 - 👀 I’m interested in Coding Lichess Bots
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 🥇 I’m looking to collaborate on Lichess Bot Repositories 
 - 📫 Reach me via [Lichess](https://lichess.org/@/ChessGreatPlayer)
 
