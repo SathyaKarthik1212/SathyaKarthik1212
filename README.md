@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning C++
 - 🥇 I’m looking to collaborate on Discord Bot Repositories 
 - 📫 Reach me via [Discord](https://discord.com/users/816980608114229250)
-[![badge1](https://imgur.com/kIsjw4p)](https://forthebadge.com)
+
+
+[![forthebadge](https://i.imgur.com/kIsjw4p.png)](https://forthebadge.com)
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SathyaKarthik1212&show_icons=true&include_all_commits=false&line_height=33&theme=algolia" />
