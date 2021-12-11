@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 👋 Hi
 
-[![forthebadge](https://i.imgur.com/8pzNI4n.png)]
+![forthebadge](https://i.imgur.com/8pzNI4n.png)
 
-[![forthebadge](https://i.imgur.com/kIsjw4p.png)]
+![forthebadge](https://i.imgur.com/kIsjw4p.png)
 
-[![forthebadge](https://i.imgur.com/ZyYgvyC.png)]
+![forthebadge](https://i.imgur.com/ZyYgvyC.png)
 
 - 📫 Reach me via [Discord](https://discord.com/users/816980608114229250)
 
