@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m @SathyaKarthik1212
-- 👀 I’m interested in Coding Lichess Bots
+- [![forthebadge](https://i.imgur.com/8pzNI4n.png)(https://forthebadge.com)
 - 🌱 I’m currently learning C++
 - 🥇 I’m looking to collaborate on Discord Bot Repositories 
 - 📫 Reach me via [Discord](https://discord.com/users/816980608114229250)
