@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 👋 Hi
 
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://discord.c99.nl/widget/theme-1/925285479165857803.png">
 
 ![forthebadge](https://i.imgur.com/8pzNI4n.png)
 
